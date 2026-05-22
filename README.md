@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neon-in-a-small-town/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Neon in a Small Town](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-in-a-small-town/) |
+| **Get License** | [Music Rights & Licensing for Neon in a Small Town](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-in-a-small-town/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0fd9db6e44e0b572dcd6e2fc1bda61b66b4fd0bd1c81e968fefc8ee322a7f24c` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

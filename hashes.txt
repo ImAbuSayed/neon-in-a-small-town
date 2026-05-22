@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Neon in a Small Town
+
+This log tracks the cryptographic history and versioning for the song **Neon in a Small Town** (neon-in-a-small-town).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:48:16.383119 | `v1` | `0fd9db6e44e0b572dcd6e2fc1bda61b66b4fd0bd1c81e968fefc8ee322a7f24c` | `b735543a4335796984f7770cad2296185d76b0e5b1745a49cde1dee52c7588f6` | `2026-05-23_neon-in-a-small-town-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
