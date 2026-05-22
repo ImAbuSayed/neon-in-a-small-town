@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/neon-in-a-small-town/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Neon in a Small Town](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-in-a-small-town/) |
+| **Get License** | [Official Music Licensing for Neon in a Small Town](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/neon-in-a-small-town/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Neon glowing on your skin tonight
+> Your shadow dancing in the pale moonlight
+> I feel the fire pulling me so close
+> You are the secret that I want the most
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
